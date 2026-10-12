@@ -78,6 +78,7 @@
 - [x] App.tsx 実装およびプロダクションビルド検証完了（`npm run build` 成功）
 - [x] GitHub Publicリポジトリ作成・プッシュ完了（`yd1sgc/mahjong-kata`）
 - [x] Cloudflare Pages用SPAリダイレクト設定（`public/_redirects`）追加・プッシュ完了
+- [x] Cloudflare Workers Builds用設定（`wrangler.jsonc`）追加・プッシュ完了
 
 ## 直近TODO
 
