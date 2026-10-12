@@ -76,6 +76,8 @@
 - [x] Vitestテスト作成・パス（8件すべて合格、計算整合性・不均一牌数・フィルター再計算を検証）
 - [x] UIコンポーネント実装（Header, InputPanel, SummaryCard, FilterPanel, ProbabilityChart, PatternTable）
 - [x] App.tsx 実装およびプロダクションビルド検証完了（`npm run build` 成功）
+- [x] GitHub Publicリポジトリ作成・プッシュ完了（`yd1sgc/mahjong-kata`）
+- [x] Cloudflare Pages用SPAリダイレクト設定（`public/_redirects`）追加・プッシュ完了
 
 ## 直近TODO
 
