@@ -4,7 +4,8 @@
 
 **名称**: 麻雀形（まじゃんがた）  
 **目的**: ユーザーが指定した牌の種類・枚数と手牌の枚数から、数学的に作成可能なすべての手牌パターンを網羅して計算し、出現確率・組み合わせ数・一覧を表示・分析するWebアプリ。  
-**リポジトリ**: `C:\Users\segu1\MyFiles\開発\repos\麻雀形`
+**ローカルパス**: `C:\Users\segu1\MyFiles\開発\repos\麻雀形`  
+**GitHubリポジトリ**: `https://github.com/yd1sgc/mahjong-kata` (Public)
 
 ## 技術スタック
 
